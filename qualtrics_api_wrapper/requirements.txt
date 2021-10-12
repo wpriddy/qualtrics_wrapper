@@ -1,0 +1,6 @@
+###### Requirements with Version Specifiers ######`
+          
+
+pandas ~= 1.0 
+tqdm ~= 4.62
+requests ~= 2.26
